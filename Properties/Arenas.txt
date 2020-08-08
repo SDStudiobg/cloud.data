@@ -1,0 +1,9 @@
+{
+	"Arenas":[
+		{
+			"Name":"Warehouse",
+			"Version":8,
+			"SceneName":"Warehouse"
+		}
+	]
+}

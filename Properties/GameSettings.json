@@ -1,0 +1,16 @@
+{
+	"GameSettings":[
+		{
+			"Round_Start_Time":4,
+			"Match_Over_Time":10,
+			"Round_Over_Time":5,
+			"Eliminate_Rounds":10,
+			"Eliminate_Round_Time":120,
+			"Sabotage_Rounds":10,
+			"Sabotage_Round_Time":90,
+			"Sabotage_AB_Round_Time":40,
+			"Sabotage_Bomb_Activate_Time":5,
+			"Sabotage_Bomb_Deactivate_Time":5
+		}
+	]
+}

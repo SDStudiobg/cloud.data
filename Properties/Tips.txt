@@ -1,0 +1,17 @@
+Maps will only be downloaded once and will be stored on your hard drive for quick access.
+By default Graphic Quality is set on Low and Image Effects are off, you can change them in Options menu.
+We suggest joining servers which are nearest to your location.
+We suggest joining servers with a ping limit corresponding to your connection speed.
+Lower graphics settings do not mean higher frame rate, find the right settings that are best for you.
+If you are experiencing lag, freezes, crashes; check if you have the latest Unity Web Player installed.
+Restarting your PC after game update might help to increase fps.
+Full screen can be toggled by pressing F as well as by clicking the button in the top right corner.
+All control keys can be customized, you can change them in the Options menu.
+Make sure to upgrade your weapon, that will give it higher accuracy, power and reduced recoil.
+You will keep your old weapon if you buy a new one, but buying weapons are restricted to the buy zone.
+You can buy weapon attachments any time, anywhere on the map.
+You must register before you can upload your person profile picture and join a clan.
+Press T for team chat, only your teammates will be able to see it. 
+Players who are alive cannot see what dead players are typing.
+In clan server type /help to get a list of available commands.
+Clan servers can be password protected and unavailable for some time.

@@ -1,0 +1,43 @@
+{
+	"RoundStats":
+	{
+		"Skillfull":"Skillfull:has an accuracy of {1:00} - Currently not working",
+		"BrokenMouse":"Broken mouse:needs to buy a new mouse - Currently not working",
+		"Assassin":"Assassin:killed {1} enemies without receiving any damage",
+		"Teamplayer":"Teamplayer:helped his team to kill {1} enemies",
+		"HolyHandGrenade":"Holy Hand Grenade:killed BUNNY using a nade",
+		"Camper":"Camper:did not receive or do any damage",
+		"DamageDealer":"Damage Dealer:dealt {1} damage",
+		"MeatShield":"Meat Shield:received damage from {1} different enemies",
+		"BulletMagnet":"Bullet Magnet:received damage from {1} different enemies",
+		"Unlucky":"Unlucky:dealt more then 200 damage without killing an enemy",
+		"DiversityKiller":"Diversity Killer:used {1} different weapons to kill someone",
+		"DiversityElite":"Diversity Elite:used {1} different weapons to kill someone",
+		"FastKiller":"Fast Killer:killed an enemy before he could even move",
+		"ExtremlyFastKiller":"Extremly Fast Killer:killed {1} enemies before they could even move",
+		"Finisher":"Finisher:killed {1} enemies while dealing less then 100 damage",
+		"NadeCatcher":"Nade Catcher:caught a nade",
+		"NadeThrower":"Nade Thrower:knows how to use explosives",
+		"Nuker":"Nuker:killed {1} enemies with a nade",
+		"HeadHunter":"Head Hunter:got {1} headshots",
+		"Aimbot":"Aimbot:got {1} headshots",
+		"Hitman":"Hitman:killed {1} people with a silenced pistol",
+		"JamesBond":"James Bond:killed {1} people with a silenced pistol",
+		"BunnyHopper":"Bunny Hopper:jumped {1} times",
+		"TheJumpingSyndrome":"The Jumping Syndrome:must have been bored since he jumped {1} times",
+		"OneManArmy":"One Man Army:killed the whole enemy team alone",
+		"EliteSoldier":"Elite Soldier:killed {1} enemies",
+		"Massacre":"Massacre:killed {1} enemies",
+		"Lucky":"Lucky:survived the round with {1} hp left",
+		"KnifeExpert":"Knife Expert:knows how to use a knife",
+		"Butcher":"Butcher:killed {1} enemies with a knife",
+		"Scrooge":"Scrooge:killed {1} enemies without reloading",
+		"SharpShooter":"Sharpshooter:killed {1} enemies with headshots",
+		"CardioTraining":"Cardio Addict:ran over {1} metres",
+		"MarathonMan":"Marathon Man:ran over {1} metres",
+		"Survivor":"Survivor:survived over 30 seconds alone",
+		"AgainstAllOdds":"Against All Odds:won the game although the enemy team had {1} alive players",
+		"TieBreaker":"Tie Breaker:ended the game in the last 10 seconds of the round"
+	}
+}
+

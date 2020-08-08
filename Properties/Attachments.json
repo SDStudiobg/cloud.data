@@ -1,0 +1,258 @@
+{
+	"Attachments":[{
+			"Type":"AmmoCounter",
+			"Name":"Ammo Counter",
+			"Category":"Tactical",
+			"Cost":200,
+			"Attributes":{
+			}
+		},{
+			"Type":"Irons",
+			"Name":"Iron Sight",
+			"Category":"Optics",
+			"Cost":0,
+			"Attributes":{
+				"ZoomAccuracy": 1
+			}
+		},{
+			"Type":"OpticCMOR",
+			"Name":"Reflex Sight",
+			"Category":"Optics",
+			"Cost":800,
+			"Attributes":{
+				"ZoomFov": -2,
+				"ZoomAccuracy": 1.5,
+				"MovementSpeed": -1
+			},
+			"CustomAttributes":{
+				"Sniper":{
+					"ZoomAccuracy": 1.4
+				}
+			}
+		},{
+			"Type":"OpticCCO",
+			"Name":"Holographic Sight",
+			"Category":"Optics",
+			"Cost":1000,
+			"Attributes":{
+				"ZoomFov": -4,
+				"ZoomAccuracy": 2,
+				"MovementSpeed": -1
+			},
+			"CustomAttributes":{
+				"Sniper":{
+					"ZoomAccuracy": 1.6
+				}
+			}
+		},{
+			"Type":"OpticSniper",
+			"Name":"Zoom x6 Scope",
+			"Category":"Optics",
+			"Cost":1200,
+			"Attributes":{
+				"ZoomFov": -12,
+				"ZoomAccuracy": 2,
+				"MovementSpeed": -2
+			}
+		},{
+			"Type":"OpticACOG",
+			"Name":"ACOG Scope",
+			"Category":"Optics",
+			"Cost":1100,
+			"Attributes":{
+				"ZoomFov": -8,
+				"ZoomAccuracy": 2.5,
+				"MovementSpeed": -1
+			},
+			"CustomAttributes":{
+				"Sniper":{
+					"ZoomAccuracy": 1.8
+				},
+				"MP5":{
+					"ZoomRecoil": -0.3
+				}
+			}
+		},{
+			"Type":"OpticPistol",
+			"Name":"Zoom x4 Scope",
+			"Category":"Optics",
+			"Cost":600,
+			"Attributes":{
+				"ZoomFov": -10,
+				"ZoomAccuracy": 3,
+				"MovementSpeed": -1
+			}
+		},{
+			"Type":"Laser",
+			"Name":"Laser Sight",
+			"Category":"Tactical",
+			"Cost":800,
+			"Attributes":{
+				"Accuracy": 1.5
+			}
+		},{
+			"Type":"Flashlight",
+			"Name":"Flashlight",
+			"Category":"Tactical",
+			"Cost":600,
+			"Attributes":{
+				"Recoil": 2,
+				"ZoomRecoil": 1
+			}
+		},{
+			"Type":"Silencer",
+			"Name":"Suppressor",
+			"Category":"Tactical",
+			"Cost":1100,
+			"Attributes":{
+				"Recoil": -1,
+				"ZoomRecoil": -0.5,
+				"DamageHead": -4,
+				"DamageBody": -4,
+				"DamageLimb": -4
+			}
+		},{
+			"Type":"SilencerMP7",
+			"Name":"Suppressor",
+			"Category":"Tactical",
+			"Cost":1000,
+			"Attributes":{
+				"Recoil": -0.5,
+				"ZoomRecoil": -0.25,
+				"DamageHead": -2,
+				"DamageBody": -2,
+				"DamageLimb": -2
+			}
+		},{
+			"Type":"SilencerPistol",
+			"Name":"Suppressor",
+			"Category":"Tactical",
+			"Cost":600,
+			"Attributes":{
+				"Recoil": -0.5,
+				"ZoomRecoil": -0.25,
+				"DamageHead": -3,
+				"DamageBody": -3,
+				"DamageLimb": -3
+			}
+		},{
+			"Type":"ExtendedClip",
+			"Name":"Extended Clip",
+			"Category":"Mods",
+			"Cost":900,
+			"Attributes":{
+				"MagazineAmmoCapacity": 5,
+				"Recoil": 0.5,
+				"MovementSpeed": -3
+			},
+			"CustomAttributes":{
+				"Sniper":{
+					"MagazineAmmoCapacity": 1
+				},
+				"Shotgun":{
+					"MagazineAmmoCapacity": 2
+				},
+				"Machinegun":{
+					"MagazineAmmoCapacity": 12
+				}
+			}
+		},{
+			"Type":"ReducedRecoil",
+			"Name":"Recoil Pad",
+			"Category":"Mods",
+			"Cost":1200,
+			"Attributes":{
+				"ZoomRecoil": -0.5,
+				"Recoil": -1,
+				"MovementSpeed": -2
+			},
+			"CustomAttributes":{
+				"Shotgun":{
+					"ZoomRecoil": -5,
+					"Recoil": -10
+				}
+			}
+		},{
+			"Type":"ExplosiveAmmo",
+			"Name":"Explosive Ammo",
+			"Category":"Ammo",
+			"Cost":1600,
+			"Attributes":{
+				"DamageHead": 10,
+				"DamageBody": 3,
+				"DamageLimb": 3,
+				"MagazineAmmoCapacity": -5,
+				"ZoomRecoil": 0.5,
+				"Recoil": 1
+			},
+			"CustomAttributes":{
+				"Sniper":{
+					"MagazineAmmoCapacity": -2,
+					"DamageHead": 15,
+					"DamageBody": 5,
+					"DamageLimb": 5
+				},
+				"Shotgun":{
+					"MagazineAmmoCapacity": -2,
+					"DamageHead": 5,
+					"DamageBody": 2,
+					"DamageLimb": 2
+				},
+				"MP5":{
+					"MagazineAmmoCapacity": -10
+				},
+				"M4A1":{
+					"MagazineAmmoCapacity": -10
+				},
+				"Machinegun":{
+					"MagazineAmmoCapacity": -25
+				}
+			}
+		},{
+			"Type":"IncendiaryAmmo",
+			"Name":"Incendiary Ammo",
+			"Category":"Ammo",
+			"Cost":1400,
+			"Attributes":{
+				"DamageHead": 3,
+				"DamageBody": 5,
+				"DamageLimb": 3,
+				"MagazineAmmoCapacity": -5,
+				"ZoomRecoil": 0.5,
+				"Recoil": 1
+			},
+			"CustomAttributes":{
+				"Sniper":{
+					"MagazineAmmoCapacity": -2,
+					"DamageHead": 5,
+					"DamageBody": 7,
+					"DamageLimb": 5
+				},
+				"Shotgun":{
+					"MagazineAmmoCapacity": -2,
+					"DamageHead": 2,
+					"DamageBody": 3,
+					"DamageLimb": 2
+				},
+				"MP5":{
+					"MagazineAmmoCapacity": -10
+				},
+				"M4A1":{
+					"MagazineAmmoCapacity": -10
+				},
+				"Machinegun":{
+					"MagazineAmmoCapacity": -25
+				}
+			}
+		},{
+			"Type":"HighExplosive",
+			"Name":"High Explosive",
+			"Category":"Mods",
+			"Cost":1500,
+			"Attributes":{
+				"ExplosionRange": -6,
+				"DamageBody": 45
+			}
+		}
+	]
+}

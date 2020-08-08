@@ -1,0 +1,26 @@
+<AchievementProperties xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<CashKill>500</CashKill>
+<CashKillStreak>100</CashKillStreak>
+<CashMultiKill>300</CashMultiKill>
+<MultiKillTimeWindow>4.0</MultiKillTimeWindow>
+<CashKillAssist>300</CashKillAssist>
+<AssistTimeWindow>3.0</AssistTimeWindow>
+<CashTeamWin>500</CashTeamWin>
+<CashStillAlive>200</CashStillAlive>
+<CashHeadshot>100</CashHeadshot>
+<CashMeleeKill>600</CashMeleeKill>
+<CashGrenadeKill>600</CashGrenadeKill>
+<CashRestock>-300</CashRestock>
+<CashLastManStanding>300</CashLastManStanding>
+<CashLosingTeamLoyalty>500</CashLosingTeamLoyalty>
+<TeamLossesForLoyalty>3</TeamLossesForLoyalty>
+<CashFirstKill>300</CashFirstKill>
+<CashFirstBlood>200</CashFirstBlood>
+<CashLoyalty>1000</CashLoyalty>
+<RoundsForLoyalty>5</RoundsForLoyalty>
+<CashNewMatch>1000</CashNewMatch>
+<CashDecisiveKill>300</CashDecisiveKill>
+<CashCrossKill>100</CashCrossKill>
+<CashBombActivate>500</CashBombActivate>
+<CashBombDeactivate>500</CashBombDeactivate>
+</AchievementProperties>
