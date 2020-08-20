@@ -9,26 +9,6 @@
 			"Name":"Courtyard",
 			"Version":8,
 			"SceneName":"Garden"
-		},
-		{
-			"Name":"Tower",
-			"Version":10,
-			"SceneName":"Depot"
-		},
-		{
-			"Name":"Timbertown",
-			"Version":15,
-			"SceneName":"GhostLevel"
-		},
-		{
-			"Name":"Crane",
-			"Version":13,
-			"SceneName":"CraneLevel"
-		},
-		{
-			"Name":"Pipeline",
-			"Version":13,
-			"SceneName":"JunkyardLevel"
 		}
 	]
 }
